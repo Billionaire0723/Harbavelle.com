@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harbavelle.github.io/Harbavelle.com/sitemap.xml
